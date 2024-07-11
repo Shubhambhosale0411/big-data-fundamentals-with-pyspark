@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=AGgyf9bO_8M&list=PLlUZLZydkS7_8WnK8fMENmJFSfPwxw
 
 ## for interview refer her 
 https://www.youtube.com/watch?v=OlYKyZvN2FA&list=PL1RS9FR9qIPEAtSWX3rKLVcRWoaBDqVBV&ab_channel=BigDataThoughts
+
+## basics 
+https://www.youtube.com/watch?v=aruptWppgSs&list=LL&index=1&t=622s
