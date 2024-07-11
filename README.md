@@ -14,3 +14,9 @@ https://www.youtube.com/watch?v=OlYKyZvN2FA&list=PL1RS9FR9qIPEAtSWX3rKLVcRWoaBDq
 
 ## basics 
 https://www.youtube.com/watch?v=aruptWppgSs&list=LL&index=1&t=622s
+
+### notes read files csv in rdd 
+https://sparkbyexamples.com/spark/spark-load-csv-file-into-rdd/
+
+# all notes with examples 
+https://sparkbyexamples.com/pyspark-tutorial/
